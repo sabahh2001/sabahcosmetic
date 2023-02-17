@@ -1,0 +1,202 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.head {
+    background-color: black;
+    color: white;
+    padding: 30px 20px 20px 20px;
+}
+
+.flu {
+    display: flex;
+}
+
+.nav div ul {
+    text-decoration: none;
+
+}
+
+.header-color {
+    color: palevioletred;
+}
+
+.hh {
+    margin: 0px;
+
+}
+
+.flex {
+    display: flex;
+    border-top: 5px solid palevioletred;
+}
+
+.hw p {
+    margin-bottom: 50px;
+}
+
+.hw {
+    width: 50%;
+    margin: 50px 0px 0px 70px;
+}
+
+.hw2 img {
+    width: 60%;
+    padding-left: 10%;
+    padding-top: 7%;
+}
+
+.hw h1 {
+    font-size: 50px;
+    padding-bottom: 0px;
+}
+
+.pink {
+    color: palevioletred;
+}
+
+.button {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    transition: all 0.3s ease 0s;
+}
+
+.button:hover {
+    background-color: palevioletred;
+}
+
+.flex1 {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    margin: 40px 80px 10px 5px;
+    padding: 40px 80px 10px 5px;
+    font-size: medium;
+    border-right: 2px solid rgb(134, 129, 129);
+}
+
+.half-widths img {
+    width: 70%;
+    margin: 40px 10px 10px 40px;
+}
+
+#Search {
+    height: 20px;
+    width: 50px;
+    margin-top: 15px;
+
+}
+
+header i {
+    padding: 15px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+}
+
+header i:hover {
+    color: palevioletred
+}
+
+header .fas {
+    font-size: 20px;
+}
+
+.lip-shop {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+}
+
+.lip-shop:hover {
+    background-color: palevioletred;
+    transition: all 0.3s ease 0s;
+}
+
+.flex2 {
+    display: flex;
+}
+
+.half-width-sec {
+    width: 50%;
+    margin: 100px 40px;
+    text-align: justify;
+    padding-right: 40px;
+    font-size: medium;
+    border-left: 2px solid rgb(134, 129, 129);
+
+
+}
+
+.halfw2 {
+    width: 50%;
+}
+
+.half-width-sec1 img {
+    width: 90%;
+    margin: 20px 0px 40px 120px;
+}
+
+.parac {
+    margin-right: 100px;
+    margin-left: 40px;
+}
+
+.halfw2 a {
+    margin-left: 40px;
+}
+
+.victoria {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+
+}
+
+.victoria:hover {
+    background-color: palevioletred;
+    transition: all 0.3s ease 0s;
+}
+
+.discount {
+    font-weight: 500;
+    color: rgb(240, 14, 89);
+
+}
+
+.discode {
+    font-weight: 900;
+    color: rgb(240, 14, 89);
+}
+
+.subscribe {
+    font-weight: 900;
+    color: rgb(240, 14, 89);
+}
+
+footer {
+    text-align: center;
+    color: white;
+    background-color: black;
+
+    margin-bottom: 0;
+    padding: 30px 0 30px 0;
+}
+
+.footer-pink {
+    color: palevioletred;
+}
+
+footer p {
+    color: rgb(196, 192, 192);
+    font-size: 10px;
+}
